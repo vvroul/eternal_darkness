@@ -1,0 +1,11 @@
+clientscripts\createfx\Setup_fx.csc
+clientscripts\Setup.csc
+clientscripts\Setup_amb.csc
+console.log
+maps\_loadout.gsc
+maps\createart\Setup_art.gsc
+maps\createfx\Setup_fx.gsc
+maps\mapsTable.csv
+maps\Setup.gsc
+mod.arena
+mod.csv
