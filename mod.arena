@@ -4,7 +4,7 @@
 	gametype	"cmp arc"
 }
 {
-	map			"Setup"
-	longname	"Setup"
+	map			"Room"
+	longname	"Room"
 	gametype	"zom"
 }
