@@ -1,9 +1,10 @@
-maps\Room.gsc
-maps\_loadout.gsc
-maps\mapsTable.csv
-maps\createfx\Room_fx.gsc
-maps\createart\Room_art.gsc
 clientscripts\createfx\Room_fx.csc
 clientscripts\Room.csc
 clientscripts\Room_amb.csc
+maps\_loadout.gsc
+maps\createart\Room_art.gsc
+maps\createfx\Room_fx.gsc
+maps\mapsTable.csv
+maps\Room.gsc
 mod.arena
+mod.csv
