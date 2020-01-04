@@ -2,6 +2,7 @@ clientscripts\createfx\Room_fx.csc
 clientscripts\Room.csc
 clientscripts\Room_amb.csc
 maps\_loadout.gsc
+maps\_zombiemode.gsc
 maps\createart\Room_art.gsc
 maps\createfx\Room_fx.gsc
 maps\mapsTable.csv
